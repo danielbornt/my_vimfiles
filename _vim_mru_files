@@ -1,0 +1,513 @@
+# Most recently edited files in Vim (version 3.0)
+C:\Users\dbornt\Dropbox\vimwiki\diary\2020-04-21.wiki
+C:\Users\dbornt\Dropbox\vimwiki\diary\diary.wiki
+C:\Users\dbornt\Dropbox\vimwiki\index.wiki
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\mapping.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\DataDeployment\scripts\buildLOVhierarchyView.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\DataDeployment\scripts\convertOracleNamesToAPInames.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\DataDeployment\scripts\combineLookupsToSingleTableView.sql
+J:\Global Data Governance\Data Quality\git\mdmRefresh\mdmRefreshBuildItemUpdates.sql
+J:\Global Data Governance\Data Quality\git\mdmRefresh\mdmRefreshItemSetup.sql
+J:\Global Data Governance\Data Quality\git\mdmRefresh\itemAddMissingAttributeGroups.sql
+J:\Global Data Governance\Data Quality\git\mdmRefresh\createProdItemsNotTest.sql
+C:\Users\dbornt\Dropbox\vimwiki\diary\2020-04-22.wiki
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\DataDeployment\scripts\loadL_HRCHYfromLkpTables.sql
+C:\Users\dbornt\Dropbox\vimwiki\cbi\informaticaIssues.wiki
+C:\Users\dbornt\Dropbox\vimwiki\cbi\MaterialMasterProject.wiki
+C:\Users\dbornt\Dropbox\vimwiki\diary\2020-04-20.wiki
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\S4data\original-LOV-data\T141 Material Status.txt
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\DataDeployment\scripts\C_L_ITEM_DTLS_v2.0.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\S4data\20200407-extracts\Informatica\MARM Extract NS4-240.txt
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\S4data\20200407-extracts\Informatica\MARA Extract NS4-240.txt
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\S4data\20200407-extracts\Informatica\MAKT Extract NS4-240.txt
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\S4data\20200407-extracts\Informatica\MARA Extract NS4-240.csv
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\S4data\20200407-extracts\Informatica\MARM Extract NS4-240.csv
+C:\Users\dbornt\Dropbox\vimwiki\diary\2020-04-14.wiki
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\S4data\20200407-extracts\Informatica\MARA Extract NS4-240-2.csv
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\S4data\20200407-extracts\Informatica\MAKT Extract NS4-240.csv
+J:\Global Data Governance\Data Quality\SourceControl\Production\General\DESC_BLDG\01A_DescriptionBuildingUsingTmpItemList.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\cmx-ors.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\FlattenedView_v0.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\gb-talk.txt
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\DescriptionBuilds\Components\FinalQuery_001.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\DE\xxcbi_item_gen_description_body.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\Integrations\test-case.txt
+j:\Global Data Governance\Data Quality\SourceControl\Production\XXRPTG\StoredProcedures\SP_LOV_UDC_COMPARE.SQL
+j:\Global Data Governance\Data Quality\SourceControl\Dev\XXRPTG\StoredProcedures\SP_LOV_UDC_COMPARE.SQL
+J:\Global Data Governance\Data Quality\SourceControl\Production\XXRPTG\StoredProcedures\SP_DAILY_DQ_AUDIT.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\S4data\comparisonScripts.sql
+j:\Global Data Governance\Data Quality\git\mdmRefresh\publishLOVsToEDW.sql
+j:\Global Data Governance\Data Quality\MDM_DATA_LOADS\.ServiceBar\inProcess\KJ\ERP0004228.sql
+j:\Global Data Governance\Data Quality\git\mdmRefresh\mergeProdLOVsIntoDev.sql
+j:\Global Data Governance\Data Quality\git\mdmRefresh\backupDevLOVs.sql
+j:\Global Data Governance\Data Quality\git\mdmRefresh\mdmRefreshBuildItemUpdates.sql
+H:\Projects\MDM-Test-Refresh\scripts\01-mdm-refresh-backup-lovs-local.sql
+C:\Users\dbornt\Downloads\Banking alignment.csv
+H:\Projects\MDM-Test-Refresh\scripts\05-mdm-refresh-mass-publish-mdm.sql
+H:\Projects\MDM-Test-Refresh\scripts\04-mdm-refresh-merge-prod-lov-data.sql
+H:\Projects\MDM-Test-Refresh\scripts\03-mdm-refresh-profisee-dev-prod-compare.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\DataDeployment\scripts\C_L_ITEM_MSR_v0.5.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\product_catalog_view_international.sql
+J:\Global Data Governance\Data Quality\Processes\SupplierCleanupUp\SupplierCleanup_Extract.sql
+J:\Global Data Governance\Data Quality\Processes\Item Transition\FG\1_Item Transition FG_Candidate_File_2.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\DataDeployment\20200401-test\queries.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\DataDeployment\hierarchyLoads.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\DataDeployment\20200401-test\s4-stxl-import-failures.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\DataDeployment\20200401-test\s4\Extract_S4_STXH.csv
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\DataDeployment\20200401-test\s4-makt-import-failures.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\DataDeployment\20200401-test\s4\Extract_S4_MAKT.csv
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\DataDeployment\20200401-test\s4\TVMS Distribution Chain Material Status.txt
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\DataDeployment\loadDependentReferenceTables_.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\DataDeployment\20200401-test\non-dependent.tsv
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\DataDeployment\loadGenericReferenceTable.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\DataDeployment\20200401-test\s4-TWSPR.tsv
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\DataDeployment\20200401-test\s4-pur-ord-uom.tsv
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\DataDeployment\20200401-test\s4-ind_sec.tsv
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\DataDeployment\20200401-test\s4-mtrl-type.tsv
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\DataDeployment\20200401-test\all-uom.tsv
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\DataDeployment\20200401-test\alcohol-content.tsv
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\DataDeployment\20200401-test\appellation.rpt
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\DataDeployment\loadDependentReferenceTables.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\DataDeployment\non-dependent.csv
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\Integrations\80084697.json
+C:\Users\dbornt\_vimrc
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\101128.json
+H:\Projects\SQL\~distributor-check.sql
+H:\Projects\Sales Hierarchy\sales_hierarchy_scripts.sql
+H:\Projects\SQL\SalesHierarchyAdditions.sql
+j:\Global Data Governance\Data Quality\git\Projects\SP_ECOMMATTR1.sql
+y:\Global Data Governance\Data Quality\git\Projects\SP_ECOMMATTR1.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\DataDeployment\loadReferenceTable.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\DataDeployment\lovToInformaticaTemplate.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\lovToInformaticaTemplate.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\sqlRefMapping.sql
+C:\Users\dbornt\Downloads\ExternalCall.java
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\newItemDescriptionFG.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\BEER Catalog Desc.sql
+Y:\Global Data Governance\Data Quality\git\Projects\lost-distributors-check.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\WS_Hierarchy_changes\hierarchyChangesV2.sql
+J:\Global Data Governance\Data Quality\Processes\Item Transition\FG\2_Item_Transition_FG_Process.sql
+C:\Users\dbornt\Desktop\BEER Catalog Desc.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\lovToInformaticaTemplate.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\sqlCopyD_ITEMtoDev.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\sqlCopyD_PARTYtoDev.sql
+C:\app\client\DBORNT\product\12.2.0\client_1\tnsnames.ora
+C:\Informatica\10.2.0\clients\DeveloperClient\.options
+C:\Informatica\10.2.0\clients\DeveloperClient\configuration\config.ini
+C:\Informatica\10.2.0\clients\DeveloperClient\developerCore.ini
+C:\Users\dbornt\Dropbox\vimwiki\cbi\MaterialMasterDescBuilds.wiki
+J:\Global Data Governance\Data Quality\Processes\Item Transition\PKG\Item_Transition_PKG_Process.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\sqlPublishLovs.sql
+J:\Global Data Governance\Data Quality\SourceControl\Production\General\DirectMDMUpdates\BrandOwner_DirectUpdate.sql
+h:\tmp\newSQL.sql
+j:\Global Data Governance\Data Quality\git\mdmRefresh\itemAddMissingAttributeGroups.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\DE\loadReferenceTable.sql
+C:\Users\dbornt\Desktop\sql.sql
+J:\Global Data Governance\Data Quality\SourceControl\Production\General\DirectMDMUpdates\Appellation_DirectUpdate.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\InsertScript_D_Item.sql
+C:\Users\dbornt\Dropbox\vimwiki\cbi\S4_LOVsToProfiseeLOVs.wiki
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\S4data\TPTM Item Category Group.txt
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\S4data\T141 Material Status.txt
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\S4data\T006 Units of Measurement.txt
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\S4data\T023 Material Groups.txt
+h:\tmp\notes.txt
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\S4data\T134 Material Types.txt
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\S4data\TVTY Packaging Material Types.txt
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\S4data\PRDKZ SLED Period Indicator.txt
+\\CWCFRP-Pfapi901\Home$\dbornt\ExportImportFiles\export.tsv
+j:\Global Data Governance\Data Quality\git\mdmRefresh\createProdPartiesNotTest.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\mdmInformatica.sql
+j:\Global Data Governance\Data Quality\Processes\Item Transition\PKG\Item_Transition_PKG_Process.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\MDM-Test-Refresh\scripts\delete-local-profisee-tables.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\MDM-Test-Refresh\scripts\01-mdm-refresh-backup-lovs-local.sql
+J:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\06-mdm-refresh-mass-publish-edw.sql
+j:\Global Data Governance\Data Quality\git\mdmRefresh\publishLOVsToMDM.sql
+J:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\05-mdm-refresh-mass-publish-mdm.sql
+J:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\04-mdm-refresh-merge-prod-lov-data.sql
+j:\Global Data Governance\Data Quality\git\mdmRefresh\CompareDevProdLOVs.sql
+J:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\03-mdm-refresh-profisee-dev-prod-compare.sql
+J:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\01-mdm-refresh-backup-lovs-local.sql
+J:\Global Data Governance\Data Quality\git\Projects\SP_1WS.sql
+y:\Global Data Governance\Data Quality\git\Projects\SP_1WS.sql
+J:\Global Data Governance\Data Quality\Projects\1WorldSync\scripts\select_1ws_records_for_template.sql
+J:\Global Data Governance\Data Quality\Projects\1WorldSync\scripts\select_1ws_records_for_template_link_beer.sql
+J:\Global Data Governance\Data Quality\git\mdmRefresh\mdmRefreshBuildPartyUpdates.sql
+j:\Global Data Governance\Data Quality\git\mdmRefresh\copyProdDataToTest.sql
+H:\Projects\MDM-Test-Refresh\scripts\copy-prod-tables-to-test-xxrptg.sql
+J:\Global Data Governance\Data Quality\git\mdmRefresh\backupOracleTestData.sql
+j:\Global Data Governance\Data Quality\git\mdmRefresh\backupOracleTestData.sql
+H:\Projects\MDM-Test-Refresh\scripts\02-mdm-refresh-oracle-backups.sql
+H:\Projects\MDM-Test-Refresh\scripts\mdm-refresh-prod-not-test-parties.sql
+j:\Global Data Governance\Data Quality\git\mdmRefresh\createProdItemsNotTest.sql
+H:\Projects\MDM-Test-Refresh\scripts\mdm-refresh-prod-not-test-items.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\mdmRefreshBuildItemUpdates.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\WS_Hierarchy_changes\scripts\2090607.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\WS_Hierarchy_changes\scripts\ProductionRelease\prodItemBPG.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\WS_Hierarchy_changes\scripts\20190614-hypercare.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\WS_Hierarchy_changes\20190607-bpg-d_item.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\auditOverlappingChanges.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\spectrum.html
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Informatica\mdmDevSqlServerLink.sql
+Y:\Global Data Governance\Data Quality\SourceControl\Production\XXRPTG\StoredProcedures\SP_DAILY_DQ_AUDIT.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\WS_Hierarchy_changes\hierarchyChanges.sql
+C:\Users\dbornt\audit371.sql
+C:\Users\dbornt\dmoLoadNutrionalData.sql
+C:\Program Files\Far Manager\Addons\Macros\ShiftTab.lua
+y:\Global Data Governance\Data Quality\git\Projects\dmoLoadNuitrionalData.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\edc_axom_info.txt
+C:\Users\dbornt\Dropbox\2019_xmas_lights.csv
+C:\Users\dbornt\Dropbox\2019_xmas_lights.txt
+C:\Users\dbornt\Downloads\idqImportTest2.csv
+H:\tmp\idqImportTest1.csv
+H:\tmp\D_ENTITY_CD_WITH_MLTPLY_DSC_VW_KICKOUTS.csv
+H:\tmp\D_ITEM_CD_WITH_MLTPLY_DSC_VW_KICKOUTS.csv
+H:\tmp\tmp_upcs.csv
+H:\tmp\BEVSEG.csv
+Y:\Global Data Governance\Data Quality\Projects\1WorldSync\scripts\select_1ws_records_for_template.sql
+C:\Users\dbornt\Dropbox\vimwiki\CustomerTransition.wiki
+C:\Users\dbornt\Dropbox\vimwiki\cbi\ssrsReporting.wiki
+C:\Users\dbornt\Dropbox\vimwiki\Depletions.wiki
+C:\Users\dbornt\Dropbox\vimwiki\cbi\mdmRefresh.wiki
+C:\Users\dbornt\Dropbox\vimwiki\OnPremPackGroup.wiki
+C:\Users\dbornt\OneDrive - Constellation Brands\work\auditToFindDuplicateHierarchyRecords.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\DE\profiseeMapping.sql
+Y:\Global Data Governance\Data Quality\git\Projects\dmoLoadECOMMATTR1.sql
+C:\Users\dbornt\AppData\Roaming\Vifm\vifm-help.txt
+C:\Users\dbornt\OneDrive - Constellation Brands\work\mdmRefreshConversation.txt
+Y:\Global Data Governance\Data Quality\SourceControl\Production\XXRPTG\Scripts\04C. SCRIPT PDH Brute Force_v16.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\mdmRefreshSetup.sql
+Y:\Global Data Governance\Data Quality\SourceControl\Production\XXRPTG\Scripts\brute_force_item.sql
+Y:\Global Data Governance\Data Quality\SourceControl\Production\XXRPTG\Scripts\Brute Force Item 2019.sql
+H:\tmp\proc_d_item_compare.sql
+y:\Global Data Governance\Data Quality\SourceControl\Production\General\DirectMDMUpdates\ShipmentDiscDate_DirectUpdate.sql
+y:\Global Data Governance\Data Quality\SourceControl\Production\General\DirectMDMUpdates\DiscontinuedSkuFlag_DirectUpdate.sql
+Y:\Global Data Governance\Data Quality\SourceControl\Production\General\DirectMDMUpdates\ProductDestination_DirectUpdate.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\20190807-Item-Item-Reprocess.sql
+C:\Users\dbornt\.emacs
+C:\Users\dbornt\.emacs_bk
+C:\Users\dbornt\.emacs.d.spc\init.el
+C:\Users\dbornt\.spacemacs
+C:\Users\dbornt\Dropbox\vimwiki\cbi\Tasks.wiki
+C:\Users\dbornt\Dropbox\vimwiki\S4HanaSandbox.wiki
+y:\Global Data Governance\Data Quality\git\Projects\updateSalesHierarchyDistributorODI.sql
+Y:\Global Data Governance\Data Quality\git\Projects\gdgBrandHierarchyLoad.sql
+H:\Projects\git\SP_CUSTOMER_CLEANUP.SQL
+H:\other\20150313_intellipac_wine_label_report.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\vipItemDescription.sql
+y:\Global Data Governance\Data Quality\git\Projects\SP_ECOMM_IDSC.SQL
+Y:\Global Data Governance\Data Quality\Processes\Item Transition\PKG\PKG_Item_Transition_BU_Lookup.sql
+Y:\Global Data Governance\Data Quality\Processes\Item Transition\PKG\PKG_ITEM_TRANSITION_EXTRACT_V2.SQL
+Y:\Global Data Governance\Data Quality\git\Projects\dmoLoadNuitrionalData.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\20190815-nutfacts.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\s_sub_acct_store_xref_ddl.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\s_sub_acct_xref_ddl.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\SQL\20171113-spend-hierarchy-test-query-from-profisee.sql
+Y:\Global Data Governance\Data Quality\SourceControl\Dev\XXRPTG\StoredProcedures\SP_CUSTOMER_CLEANUP.SQL
+Y:\Global Data Governance\Data Quality\Processes\SupplierCleanupUp\SupplierCleanup_Extract.sql
+Y:\Global Data Governance\Data Quality\Processes\SupplierCleanupUp\SupplierCleanup_proc.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\tmp2.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\tmp.sql
+y:\Global Data Governance\Data Quality\Projects\MDM Refresh\d_party-update.sql
+Y:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\mdm-refresh-d-item-compare.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\test.sql
+Y:\Global Data Governance\Data Quality\SourceControl\Production\General\DirectMDMUpdates\_MassPublish_Item.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\mdmRefresh201909.sql
+Y:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\copy-lnd-prod-to-test.sql
+Y:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\update-xxrptg-and-lnd-mdm.sql
+Y:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\10-mdm-refresh-prod-not-test-parties.sql
+Y:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\disable-enable-triggers.sql
+Y:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\08-mdm-refresh-d-party-compare.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Refresh\lovMdmPublishOutput.txt
+C:\Users\dbornt\OneDrive - Constellation Brands\work\Refresh\lovMergeOutput.txt
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\MDM-Test-Refresh\scripts\04-mdm-refresh-merge-prod-lov-data.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\MDM-Test-Refresh\scripts\03-mdm-refresh-profisee-dev-prod-compare.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\MDM-Test-Refresh\scripts\02-mdm-refresh-oracle-backups.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\SQL\brand-hierarchy-pull.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\EDGE\brand-hierarchy-builds.sql
+Y:\Global Data Governance\Data Quality\SourceControl\Production\XXRPTG\Scripts\04C. SCRIPT PDH Brute Force_MITCH.sql
+C:\Users\dbornt\Dropbox\snippets
+h:\tmp\proc_d_item_compare.sql
+Y:\Global Data Governance\Data Quality\git\Projects\prod\dmoLoadNSO.sql
+C:\Users\dbornt\Dropbox\vimwiki\cbi\ProfiseeNotes.wiki
+h:\tmp\loadXXRPTG_L_HIERARCHYtest.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\SC\PROD\General\BrandHierarchy\BrandHierarchy.sql
+Y:\Global Data Governance\Data Quality\git\Projects\gdgLoadMDM.sql
+y:\Global Data Governance\Data Quality\git\Projects\dmoLoadHierLevelXref.sql
+y:\Global Data Governance\Data Quality\SourceControl\Production\XXRPTG\StoredProcedures\SP_DAILY_DQ_AUDIT.sql
+Y:\Global Data Governance\Data Quality\git\Projects\vw_fg_long_desc.sql
+y:\Global Data Governance\Data Quality\git\Projects\vw_fg_long_desc.sql
+Y:\Global Data Governance\Data Quality\git\Projects\vw_product_master_us.sql
+y:\Global Data Governance\Data Quality\git\Projects\vw_product_master_full.sql
+Y:\Global Data Governance\Data Quality\git\Projects\vw_product_master_full.sql
+C:\Users\dbornt\d-item-desc.txt
+Y:\Global Data Governance\Data Quality\git\Projects\SP_ECOMM_IDSC.SQL
+C:\Users\dbornt\Downloads\vifm-w64-se-0.9.1-binary\data\vifmrc
+h:\tmp\RITM0153352-banking.sql
+y:\Global Data Governance\Data Quality\MDM_DATA_LOADS\.ServiceBar\inProcess\MS\1AA39E7E.tmp
+y:\Global Data Governance\Data Quality\git\Projects\dmoNSORefreshLOVs.sql
+C:\Users\dbornt\20190624_WeeklyMeetingNotes.txt
+C:\Users\dbornt\Downloads\vifm-w64-se-0.9.1-binary\data\vifm-help.txt
+C:\Users\dbornt\.emacs.d\elpa\evil-escape-20180910.1234\evil-escape.elc
+C:\Users\dbornt\.emacs.d\elpa\evil-escape-20180910.1234\evil-escape.el
+C:\Users\dbornt\.emacs.d\elpa\evil-escape-20180910.1234\evil-escape-pkg.el
+C:\Users\dbornt\.emacs.d\elpa\evil-escape-20180910.1234\evil-escape-autoloads.el
+H:\Projects\SC\PROD\XXRPTG\Views\VW_F0101_Z.sql
+H:\_Remedy\completed\INC000000468318_SCRIPT.sql
+H:\Projects\SQL\CustomerToZfileMatching.sql
+H:\Projects\SQL\20171201.sql
+H:\Projects\SQL\_ZFileQueries.sql
+C:\Users\dbornt\Dropbox\vimwiki\cbi\NationalSalesHierarchy.wiki
+C:\Users\dbornt\Dropbox\vimwiki\cbi\salesHierarchy.wiki
+Y:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\06-mdm-refresh-mass-publish-edw.sql
+Y:\Global Data Governance\Data Quality\git\Projects\wrkNSOSysHierLabels-openquery.sql
+Y:\Global Data Governance\Data Quality\git\Projects\dmoLoadHierLevelXref.sql
+Y:\Global Data Governance\Data Quality\git\Projects\dmoCreate_wrkHierarchyLevels.sql
+y:\Global Data Governance\Data Quality\git\Projects\dmoCreate_wrkHierarchyLevels.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\20190814-create-party.sql
+Y:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\mdm-refresh-d-party-compare_v2.sql
+y:\Global Data Governance\Data Quality\Projects\MDM Refresh\20190826-d_party-update.txt
+C:\Users\dbornt\OneDrive - Constellation Brands\work\mdmRefreshParties-20190816.sql
+y:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\mdm-refresh-prod-not-test-parties.sql
+Y:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\mdm-refresh-prod-not-test-items.sql
+y:\Global Data Governance\Data Quality\Projects\MDM Refresh\20190826-LOV-pub-edw1.txt
+Y:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\02-mdm-refresh-oracle-backups.sql
+Y:\Global Data Governance\Data Quality\SourceControl\Production\General\DESC_BLDG\01A_DescriptionBuildingUsingTmpItemList.sql
+y:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\02-mdm-refresh-oracle-backups.sql
+y:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\mdm-refresh-prod-not-test-items.sql
+y:\Global Data Governance\Data Quality\Projects\MDM Refresh\20190826-LOV-pub-mdm.txt
+Y:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\05-mdm-refresh-mass-publish-mdm.sql
+y:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\05-mdm-refresh-mass-publish-mdm.sql
+y:\Global Data Governance\Data Quality\Projects\MDM Refresh\20190826-LOV-Merge.txt
+Y:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\04-mdm-refresh-merge-prod-lov-data.sql
+Y:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\03-mdm-refresh-profisee-dev-prod-compare.sql
+Y:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\01-mdm-refresh-backup-lovs-local.sql
+Y:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\mdm-refresh-prod-not-test-parties.sql
+H:\Projects\wrkNSOSysHierLabels-openquery.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\BrandPlanningGroup\brandPlanningGroup.md
+C:\Users\dbornt\OneDrive - Constellation Brands\work\BrandPlanningGroup\brandPlanningGroup.wiki
+C:\Users\dbornt\OneDrive - Constellation Brands\work\loadTmpBrandPlanningGroup.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\20190805.sql
+C:\Users\dbornt\Dropbox\vimwiki\cbi\MaterialMasterDemo.wiki
+H:\Projects\Audits\SQL\201601_new_costing_audits.sql
+D:\arch\boot\syslinux\archiso.cfg
+D:\isolinux\isolinux.cfg
+D:\syslinux.cfg
+C:\Users\dbornt\20190802-pdh-notes.txt
+C:\Users\dbornt\20190802-stadnup-notes.txt
+y:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\mdm-refresh-d-item-compare.sql
+y:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\issues.txt
+y:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\mdm-refresh-d-party-compare_v2.sql.sql
+Y:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\mdm-refresh-d-party-compare.sql
+Y:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\delete-profisee-local-backups.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\SQL\20160309_empty_tables.sql
+y:\Global Data Governance\Data Quality\Projects\MDM Refresh\scripts\delete-profisee-local-backups.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\SQL\20180607-profisee-dev-prod-delete-empties.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\SQL\dlbBackupDevLovTablesLocally.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\MDM-Test-Refresh\scripts\update-xxrptg-and-lnd-mdm.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\MDM-Test-Refresh\scripts\mdm-refresh-prod-not-test-items.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\MDM-Test-Refresh\scripts\mdm-refresh-d-item-compare.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\MDM-Test-Refresh\scripts\20190128-item.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\MDM-Test-Refresh\scripts\06-mdm-refresh-mass-publish-edw.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\MDM-Test-Refresh\scripts\05-mdm-refresh-mass-publish-mdm.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\teamMeetingNotes-190715.txt
+Y:\Global Data Governance\Data Quality\Processes\Item Transition\FG\1_Item Transition FG_Candidate_File_2.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\duplicateHierarchyCheck.sql
+y:\Global Data Governance\Projects\WS Re-Org\updates\checkQueries.sql
+C:\Users\dbornt\Documents\Visual Studio 2015\Projects\WorkFlow\SSRS\DataQuality\DataQuality.sln
+C:\Users\dbornt\OneDrive - Constellation Brands\work\WS_Hierarchy_changes\scripts\ProductionRelease\TicketFiles\RITM0138404-jde-f0006-bu-updates.sql
+Y:\Global Data Governance\Projects\WS Re-Org\ConsolidatedBUupdatesF0006_20190701.sql
+y:\Global Data Governance\Projects\WS Re-Org\ConsolidatedBUupdatesF0006_20190701.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\MDM-Test-Refresh\scripts\mdm-refresh-d-party-compare.sql
+Y:\Global Data Governance\Data Quality\SourceControl\Production\General\DirectMDMUpdates\aBusinessEventsTrigger.sql
+Y:\Global Data Governance\Data Quality\SourceControl\Production\General\DirectMDMUpdates\BrandPriority_US_DirectUpdate.sql
+C:\Users\dbornt\Downloads\WineAndSpiritsHierarchies.json
+Y:\Global Data Governance\Data Quality\MDM_DATA_LOADS\.ServiceBar\inProcess\MS\RITM0140587g.sql
+Y:\Global Data Governance\Data Quality\MDM_DATA_LOADS\.ServiceBar\inProcess\MS\RITM0140587f.sql
+Y:\Global Data Governance\Data Quality\MDM_DATA_LOADS\.ServiceBar\inProcess\MS\RITM0140587e.sql
+Y:\Global Data Governance\Data Quality\MDM_DATA_LOADS\.ServiceBar\inProcess\MS\RITM0140587d.sql
+Y:\Global Data Governance\Data Quality\MDM_DATA_LOADS\.ServiceBar\inProcess\MS\RITM0140587c.sql
+Y:\Global Data Governance\Data Quality\MDM_DATA_LOADS\.ServiceBar\inProcess\MS\RITM0140587b.sql
+Y:\Global Data Governance\Data Quality\MDM_DATA_LOADS\.ServiceBar\inProcess\MS\RITM0140587a.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\mdsUpdateHierarchyLevels.sql
+H:\tmp\RITM0138227-jde-f4102-non-fg2-updates.sql
+H:\tmp\RITM0138227-jde-f4101-non-fg2-updates.sql
+H:\tmp\RITM0138227-pdh-updates-non-fg.sql
+H:\tmp\RITM0138227-edw-s_item-lob-updates.sql
+H:\tmp\RITM0138227-jdeprod-f4101-lob-updates.sql
+H:\tmp\RITM0138227-pdh-updates-lob.sql
+H:\tmp\salesSegmentAPPS.sql
+H:\tmp\20190507-xxrptg_d_item_updates.sql
+H:\tmp\RITM0138227-pdh-ego-bpg-updates.sql
+H:\tmp\RITM0138404-jde-f0006-bu-updates.sql
+h:\tmp\RITM0138404-jde-f0006-bu2-updates.sql
+H:\tmp\20190520-qapdta-sm-f0006-updates.sql
+H:\tmp\20190515-qapdta.f0006-updates.sql
+H:\tmp\RITM0138227-xxrptg-d_item-lob-updates.sql
+h:\tmp\RITM0138227-jde-f4102-non-fg2-updates.sql
+H:\tmp\RITM0138227-jde-f4101-non-fg2-updates.txt
+C:\Users\dbornt\OneDrive - Constellation Brands\work\WS_Hierarchy_changes\scripts\ProductionRelease\prodItemLOB.sql
+H:\tmp\RITM0138227-edw-s-item-non-fg-updates.sql
+h:\tmp\RITM0138227-edw-s-item-non-fg-updates.sql
+h:\tmp\RITM0138227-jde-f4101-non-fg-updates.sql
+h:\tmp\RITM01388227-pdh-updates-non-fg.sql
+h:\tmp\RITM-jde-f0006-bu-updates.sql
+h:\tmp\RITM0138227-edw-s_item-lob-updates.sql
+h:\tmp\RITM0138227-xxrptg-d-item-bpg-updates.sql
+H:\tmp\RITM0138227-edw-s_item-bpg-updates.sql
+h:\tmp\RITM0138227-pdh-ego-bpg-updates.sql
+h:\tmp\RITM0138227jdeprod-f4101-lob-updates.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\WS_Hierarchy_changes\scripts\ProductionRelease\prodPartyCompare.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\WS_Hierarchy_changes\scripts\ProductionRelease\prodItemCompare.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\WS_Hierarchy_changes\scripts\employeeLoadMDS.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\WS_Hierarchy_changes\scripts\prod.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\WS_Hierarchy_changes\scripts\prodItemCompare.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\WS_Hierarchy_changes\scripts\prodPartyCompare.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\WS_Hierarchy_changes\20190610-bpg-s_item.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\WS_Hierarchy_changes\20190610-bpg-d_item.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\WS_Hierarchy_changes\scripts\bpg-check.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\WS_Hierarchy_changes\20190606-bpg-s_item.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\WS_Hierarchy_changes\20190606-bpg-d_item.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\WS_Hierarchy_changes\20190605-hillary-convo.txt
+C:\Users\dbornt\Dropbox\vimwiki\diary\2019-06-05.wiki
+C:\Users\dbornt\Dropbox\vimwiki\diary\2017-08-18.wiki
+C:\Users\dbornt\Dropbox\vimwiki\diary\2017-08-17.wiki
+C:\Users\dbornt\Dropbox\vimwiki\CBI\mdmPOC.wiki
+C:\Users\dbornt\Downloads\vifm-w64-se-0.9.1-binary\INSTALL.txt
+h:\20150707_roger_shaver_review.md
+H:\Projects\scripts\dmoCopyEntity.sql
+C:\Users\dbornt\.emacs.d\elpa\undo-tree-0.6.5\undo-tree-autoloads.el
+C:\Users\dbornt\.emacs.d\elpa\undo-tree-0.6.5\undo-tree-pkg.el
+C:\Users\dbornt\.emacs.d\elpa\undo-tree-0.6.5\undo-tree.el
+C:\Users\dbornt\Dropbox\Downloads\daniel-bornt.ghost.2019-05-30.json
+h:\Projects\nso.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\dmoCopyEntitiesCode-NoProdFlagOnCopyEntity.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\20190523.sql
+h:\tmp\20190522-jdeqap-f4101-lob-updates.sql
+h:\tmp\20190522-edw-s_item-lob-updates.sql
+h:\tmp\20190522-xxrptg-d_item-lob-updates.sql
+H:\Projects\Sales Hierarchy\cbi_s_item_updates.sql
+H:\Projects\Sales Hierarchy\FY19 WS Hierarchy Updates\ssms.sql
+y:\Global Data Governance\Data Quality\SourceControl\Production\XXRPTG\Scripts\find-item-party-records-to-republish-by-date.sql
+Y:\Global Data Governance\Data Quality\SourceControl\Dev\XXRPTG\Scripts\ws-bpg-scripts.sql
+h:\tmp\20190520-edw-s_item-bpg-updates.sql
+Y:\Global Data Governance\Data Quality\SourceControl\Production\General\DirectMDMUpdates\ABV_DirectUpdate.sql
+Y:\Global Data Governance\Data Quality\SourceControl\Production\General\DirectMDMUpdates\_CDH_DIRECT_UPDATES_TEST.SQL
+h:\tmp\20190520-qapdta-sm-f0006-updates.sql
+h:\tmp\RITM0122634g.sql
+h:\tmp\RITM0122634f.sql
+h:\tmp\RITM0122634e.sql
+h:\tmp\RITM0122634d.sql
+H:\tmp\RITM0122634d.sql
+H:\tmp\RITM0122634b.sql
+H:\tmp\RITM0122634c.sql
+h:\tmp\RITM0122634c.sql
+h:\tmp\RITM0122634b.sql
+h:\tmp\RITM0122634a.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\WS_Hierarchy_changes\goLive-backup-production-data.sql
+h:\tmp\20190515-qapdta.f0006-updates.sql
+Y:\Global Data Governance\Data Quality\SourceControl\Production\General\DirectMDMUpdates\ClosureType_DirectUpdate.sql
+h:\tmp\20190515-s_item-BPG-updates.sql
+h:\tmp\20190515-d_item-BPG-updates.sql
+H:\tmp\gdgUniversalSkuBuild.sql
+H:\Projects\CommercialProductMaster\MDS_Profisee\20160816_competitive_usku_build.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\SQL\ssms20180131.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\CommercialProductMaster\MDS_Profisee\20160816_competitive_usku_build.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\nso.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\git\dmoLoadStoreXref.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\git\dmoNSOLoadSubAcctXref.sql
+Y:\Global Data Governance\Data Quality\git\Projects\dmoNSOLoadSubAcctXref.sql
+Y:\Global Data Governance\Data Quality\git\Projects\dmoNSOProcessNatBeerOn.sql
+Y:\Global Data Governance\Data Quality\git\Projects\dmoNSOProcessNationalTBA.sql
+Y:\Global Data Governance\Data Quality\git\Projects\dmoNSOProcessNatBeerOff.sql
+Y:\Global Data Governance\Data Quality\git\Projects\dmoLoadNSOSyshierarchy.sql
+Y:\Global Data Governance\Data Quality\git\Projects\dmoNSOLoadWorkingTable.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\git\dmoNSOLoadWorkingTable.sql
+h:\tmp\20190508-qapdta.f4101-updates.sql
+h:\tmp\20190508-lnd_mdm_s_item_updates.sql
+h:\tmp\20190508-xxrptg_d_item_updates.sql
+Y:\Global Data Governance\Data Quality\SourceControl\Production\General\DirectMDMUpdates\Specialty_DirectUpdate.sql
+h:\tmp\20190508-qap_f4101_updates.sql
+Y:\Global Data Governance\Data Quality\git\NationalAccounts\.git\description
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\git\.git\description
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\git\.git\config
+h:\tmp\20190507-lnd_mdm_s_item_updates.sql
+h:\tmp\20190507-xxrptg_d_item_updates.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\WS_Hierarchy_changes\20190507-xxrptg_d_item_updates.sql
+Y:\Global Data Governance\Data Quality\SourceControl\Production\General\DirectMDMUpdates\BrandOwner_DirectUpdate.sql
+H:\Projects\Sales Hierarchy\170331_GoLive\20170331_go_live.md
+H:\Projects\Sales Hierarchy\170331_GoLive\20170331_d_party_updates.sql
+H:\Projects\Sales Hierarchy\query_sets.txt
+H:\Projects\Sales Hierarchy\cbi_s_party_updates.sql
+H:\Projects\Sales Hierarchy\20170309_customer_updates_s_party.sql
+H:\Projects\Sales Hierarchy\20170309_customer_updates_bln_f0101.sql
+H:\Projects\Sales Hierarchy\2017-03-06_S_BUSN_updates.sql
+H:\Projects\Sales Hierarchy\20170309_bu_updates_lnd_mdm_s_busn.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\NSE\Sales Org Changes_Validations_Scripts_DMO.txt
+h:\Projects\git\SP_SGWS.SQL
+h:\Projects\git\dmoNSOLoadSubAcctXref.sql
+h:\Projects\wrkNSOSysHierarchy-openquery.sql
+h:\Projects\git\dmoNSOProcessRegBeerOff.sql
+h:\Projects\git\dmoLoadNSOSyshierarchy.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\git\dmoLoadHierLevelXref.sql
+h:\Projects\git\dmoCreate_wrkHierarchyLevels.sql
+h:\Projects\wrkLoadNSOSysHierLabels.sql
+h:\Projects\brandActiveResearch.sql
+h:\Projects\git\dmoNSOLoadWorkingTable.sql
+h:\Projects\git\dmoLoadStoreXref.sql
+h:\Projects\git\dmoNSOProcessRegSpecBeerOff.sql
+h:\Projects\git\dmoNSOProcessRegSpecOff.sql
+h:\Projects\git\dmoLoadHierLevelXref.sql
+h:\Projects\hierarchyWork20190408.sql
+Y:\Global Data Governance\Data Quality\SourceControl\Production\General\DirectMDMUpdates\VineyardBlock_DirectUpdate.sql
+Y:\Global Data Governance\Data Quality\SourceControl\Production\General\DirectMDMUpdates\AcctSegSubBrand_DirectUpdate.sql
+h:\Projects\git\dmoNSOProcessNationalWS.sql
+H:\Projects\SQL\profiseeUserReport.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\gdgLoadMDM.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\dmoLoadNSOworkTable.sql
+h:\Projects\gdgSGWS.sql
+C:\Users\dbornt\Dropbox\vimwiki\sgwsFeed.wiki
+C:\Users\dbornt\Dropbox\vimwiki\cbi\Weekly Priorities.wiki
+C:\Users\dbornt\Dropbox\vimwiki\cbi\Tickets.wiki
+C:\Users\dbornt\Dropbox\vimwiki\cbi\misc_notes.wiki
+C:\Users\dbornt\Dropbox\vimwiki\JDE_Table_xref.wiki
+C:\Users\dbornt\Dropbox\vimwiki\PErsonal\Kitchen.wiki
+C:\Users\dbornt\Dropbox\vimwiki\PErsonal\HouseProjects.wiki
+C:\Users\dbornt\Dropbox\vimwiki\diary\2017-03-27.wiki
+C:\Users\dbornt\Dropbox\vimwiki\diary\2019-04-08.wiki
+C:\Users\dbornt\Dropbox\vimwiki\diary\2019-04-17.wiki
+C:\Users\dbornt\Dropbox\vimwiki\diary\2018-09-22.wiki
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\hierarchyWork20190408.sql
+h:\Projects\wrkS_SUB_ACCT_STORE_XREF.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\git\dmoLoadNSOSyshierarchy.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\git\dmoNSOProcessNationalWS.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\git\dmoNSOProcessRegBeerOff.sql
+h:\Projects\git\dmoLoadECOMMATTR1.sql
+h:\Projects\git\gdgSGWS.sql
+h:\Projects\wrkNSOSysHierLabels-openquery.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\git\gdgLoadMDM.sql
+C:\Users\dbornt\Downloads\250___MDM_Admin.rdp
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\git\dmoNSOProcessNatBeerOn.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\git\dmoNSOProcessNationalTBA.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\git\dmoNSOProcessNatBeerOff.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\git\dmoNSOProcessRegBeerOn.sql
+h:\Projects\git\gdgLoadMDM.sql
+h:\tmp\SQLQuery3.sql
+H:\tmp\SQLQuery3.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\wrkLoadNSOSysHierLabels.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\wrkCreateS_SUB_ACCT_STORE_XREF.sql
+h:\Projects\wrkCreateS_SUB_ACCT_STORE_XREF.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\dmoLoadingSubAccountAssociations.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\precedenceWork20190401.sql
+h:\Projects\git\dmoCreate_vwL_HIER_STORE.sql
+h:\Projects\nsoView.sql
+h:\Projects\dmoLoadNSOworkTable.sql
+h:\Projects\dmoLoadingSubAccountAssociations.sql
+C:\Users\dbornt\OneDrive - Constellation Brands\work\NSE\dmoNSOwork.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\git\dmoCreate_wrkHierarchyLevels.sql
+h:\Projects\git\SP_ECOMM_IDSC.SQL
+Y:\Global Data Governance\Data Quality\Processes\Item Transition\FG\1_Item Transition FG_Candidate_File.sql
+H:\Projects\git\dmoLoadNSOSyshierarchy.sql
+C:\Users\dbornt\RUF_MDM_T1.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\SQL\ecommReportCurrentToNewRetailerNames.sql
+\\CWCFRP-Pfapi901\Home$\dbornt\Projects\git\dmoLoadNSO.sql
+h:\Projects\git\dmoNSOProcessNatBeerOff.sql
